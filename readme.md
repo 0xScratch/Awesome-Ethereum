@@ -53,6 +53,10 @@ Official Ethereum Documentation.
 - [Hardhat](https://hardhat.org/) - Ethereum development environment for professionals.
 
 
+## DevOps
+
+- [Cannon](https://usecannon.com/) Continuous configuration automation & development cli multi-tool. Like Terraform, Docker and NPM for Ethereum.
+
 ## Tutorials
 
 Step by step guides on using Ethereum.
@@ -112,6 +116,7 @@ The Ideas behind the Ethereum Project.
 - [MyEtherWallet](https://www.myetherwallet.com/) - Online wallet service that interacts with the blockchain and performs several other useful functions.
 - [Mist - Deprecated](https://github.com/ethereum/mist) - Official Ethereum wallet - Browse and use Ðapps on the Ethereum network.
 - [MyCrypto](https://www.mycrypto.com) - Online wallet service that interacts with the blockchain and performs several other useful functions.
+- [Ambire](https://www.ambire.com) - The first hybrid Account abstraction wallet to support Basic (EOA) and Smart accounts, improving security and user experience.
 
 ## Blockchain Utilities
 
@@ -120,6 +125,7 @@ The Ideas behind the Ethereum Project.
 - [Ethplorer](https://ethplorer.io/) - Ethereum block explorer.
 - [Beaconcha (formerly Etherchain)](https://beaconcha.in) - Ethereum block explorer.
 - [Blockchair](https://blockchair.com/ethereum/) - Multi block explorer with nice charts.
+- [Blockscout](https://www.blockscout.com/) - Open-source Blockchain Explorer for inspecting and analyzing EVM Chains
 
 ## Protocols
 
