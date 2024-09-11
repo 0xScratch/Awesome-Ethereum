@@ -51,6 +51,7 @@ Official Ethereum Documentation.
 - [Embark Framework](https://github.com/embarklabs/embark) - Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms.
 - [Eth Fiddle](https://ethfiddle.com/) - Online editor for smart contracts.
 - [Hardhat](https://hardhat.org/) - Ethereum development environment for professionals.
+- [Foundry](https://book.getfoundry.sh/) - A tool for building, testing, and deploying Ethereum smart contracts using Solidity.
 
 
 ## DevOps
